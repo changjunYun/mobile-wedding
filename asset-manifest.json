@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mobile-wedding/static/css/main.318df64f.css",
+    "main.js": "/mobile-wedding/static/js/main.1eaa22e9.js",
+    "static/js/488.22092ec2.chunk.js": "/mobile-wedding/static/js/488.22092ec2.chunk.js",
+    "static/media/ourstory3.png": "/mobile-wedding/static/media/ourstory3.05779b746d2ded813f81.png",
+    "static/media/ourstory2.png": "/mobile-wedding/static/media/ourstory2.c31e3d0da2d8adb11b0f.png",
+    "static/media/ourstory5.png": "/mobile-wedding/static/media/ourstory5.654b38782c48546d2311.png",
+    "static/media/ourstory4.png": "/mobile-wedding/static/media/ourstory4.5793bcfce2ac730ce6ff.png",
+    "static/media/image1.png": "/mobile-wedding/static/media/image1.060b1cf88e5c1fffef68.png",
+    "static/media/groom-parents.png": "/mobile-wedding/static/media/groom-parents.8daa415c9f1d2a7b70ce.png",
+    "static/media/ourstory1.png": "/mobile-wedding/static/media/ourstory1.1786cb051d81fded47aa.png",
+    "static/media/bride-parents.png": "/mobile-wedding/static/media/bride-parents.ef068ad939514c88076f.png",
+    "static/media/groom.png": "/mobile-wedding/static/media/groom.57939ec97e7b2a9d495f.png",
+    "static/media/bride.png": "/mobile-wedding/static/media/bride.b7e16e8ef86ef6b3bbd6.png",
+    "index.html": "/mobile-wedding/index.html",
+    "main.318df64f.css.map": "/mobile-wedding/static/css/main.318df64f.css.map",
+    "main.1eaa22e9.js.map": "/mobile-wedding/static/js/main.1eaa22e9.js.map",
+    "488.22092ec2.chunk.js.map": "/mobile-wedding/static/js/488.22092ec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318df64f.css",
+    "static/js/main.1eaa22e9.js"
+  ]
+}
